@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=DM+Sans:wght@400;500&family=Grandstander&family=Inter&family=Kanit&family=Lobster&family=Paytone+One&family=Poppins:wght@500;700&family=Raleway&family=Roboto:ital,wght@0,400;1,100;1,500&family=Rubik+Puddles&family=Ubuntu&display=swap');
+body{
+    font-family: Inter;
+}
+header{
+    nav{
+        display: flex;
+        justify-content: space-around;
+        div{
+            display: flex;
+            h2{
+               margin-left: 45px;
+               color: grey;
+            }
+        }
+        
+    }
+    main{
+        display: flex;
+        margin-top: 100px;
+        .left{
+            width: 600px;
+            margin-left: 190px;
+            b{
+                font-size: 67px;
+            }
+            p{
+                font-size: 20px;
+            }
+            button{
+                width: 220px;
+                height: 55px;
+                border-radius: 8px;
+                border: 0;
+                background-color: blue;
+                color: white;
+                font-size: 20px;
+                opacity: 0.4;
+            }
+        }
+        .right{
+            margin-left: 100px;
+        }
+    }
+    footer{
+        img{
+            margin-left: 263px;
+        }
+        p{
+            text-align: center;
+            margin-top: 120px;
+            margin-bottom: 30px;
+            color: grey;
+            font-size: 18px;
+        }
+    }
+    section{
+        display: flex;
+        margin-top: 140px;
+        div:first-child{
+            margin-left: 190px;
+        }
+        .right{
+            margin-top: 70px;
+            margin-left: 50px;
+        }
+            b{
+                font-size: 55px;
+            }
+            div{
+                width: 550px;}
+            p{
+                font-size: 20px;
+                width: 470px;
+            }
+    }
+}
+.akrom{
+    .h4-bg{
+    color: #272D38;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 27.5px;
+text-transform: capitalize;
+text-align: center;
+}
+.h1-bg{
+color: #272D38;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%; 
+text-transform: capitalize;
+text-align: center;
+margin-top: -10px;
+}
+.katta{
+    margin-left: 300px;
+    width: 345px;
+height: 334px;
+border-radius: 20px;
+background: #F6F6F6;
+}
+.bg-light{
+    margin-left: 105px;
+    margin-top: 50px;
+}
+.h4-light{
+    color: #272D38;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27.5px; 
+text-transform: capitalize;
+margin-top: -0px;
+margin-left: 120px;
+}
+.p-bg{
+    color: #272D38;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: 130%;
+text-transform: capitalize;
+margin-top: -10px;
+}
+.kichik{
+    margin-left: 360px;
+    margin-top: -333px;
+}
+.orta{
+    margin-left: 360px;
+}
+.nol{
+    width: 1065px;
+height: 450.434px;
+border-radius: 20px;
+background: #F6F6F6;
+margin-left: 300px;
+margin-top: 200px;
+}
+.h4-left{
+    color: #272D38;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%;
+margin-left: 680px;
+margin-top: -380px;
+}
+.bg-ko{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.h1-left{
+    color: #272D38;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 27.5px;
+margin-left: 685px;
+margin-top: -40px;
+}
+.button-bg{
+    width: 167px;
+height: 48.046px;
+border-radius: 8px;
+background: #8EADD5;
+border: 2px solid #8EADD5;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 27.5px; 
+text-transform: uppercase;
+margin-left: 685px;
+margin-top: 25px;
+}
+.button-bg:hover{
+    background-color: #FFF;
+    color: #8EADD5;
+}
+.besh{
+    width: 100%;
+height: 443px;
+flex-shrink: 0;
+background: #F6F6F6;
+margin-top: 150px;
+}
+.pasti .tepa{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 150px;
+}
+.h4-nuqta{
+    color: #272D38;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: 100%;
+    text-align: center;
+    margin-top: -40px;
+}
+}
